@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "Python Debugger: Python File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "args": ["TC1/TC1.ProductList.json", "TC1/TC1.Sales.json"],
+        }
+    ]
+}
